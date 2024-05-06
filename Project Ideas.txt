@@ -1,0 +1,12 @@
+1. E-commerce app	Flipkart Clone
+2. Social Application	Insta Clone
+3. Chatting Apps		Whatsapp Clone
+4. Water your plants
+5. Security Camera
+6. Scientific Calculator		
+7. Algorithm Visualizer
+8. Notes
+9. Google Calander clone
+
+// HS
+

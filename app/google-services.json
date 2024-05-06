@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267246306704",
+    "project_id": "signindemo-71371",
+    "storage_bucket": "signindemo-71371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267246306704:android:acdb527b16c1960649df15",
+        "android_client_info": {
+          "package_name": "com.prafull.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267246306704-do1br4562bk3v6c0bspm31dvm1h3dot1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prafull.googlesignindemo",
+            "certificate_hash": "57eba8ea1de031581912e78159f13741f508e7b0"
+          }
+        },
+        {
+          "client_id": "267246306704-nu7c8755fo2j8dp65ibp08baobsmdif7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8ewGD6p0p_i01IQTgOriIb8WCtHqvtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267246306704-nu7c8755fo2j8dp65ibp08baobsmdif7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
